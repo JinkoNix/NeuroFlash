@@ -1,0 +1,9 @@
+[
+  { "id": "frontal", "name": "Frontal Lobe" },
+  { "id": "parietal", "name": "Parietal Lobe" },
+  { "id": "temporal", "name": "Temporal Lobe" },
+  { "id": "occipital", "name": "Occipital Lobe" },
+  { "id": "limbic", "name": "Limbic & Deep Brain" },
+  { "id": "brainstem", "name": "Brainstem & Diencephalon" },
+  { "id": "cerebellum", "name": "Cerebellum" }
+]
